@@ -5,7 +5,7 @@ window.BUCKME_CFG = {
   CHAIN: "solana",
   PAD: "pumpfun",
   PAIR: "",
-  X: "",
+  X: "https://x.com/BuckMeBank",
   BUY: "",
   CHART: ""
 };
